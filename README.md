@@ -1,5 +1,17 @@
-<h1 align="center">Hi 👋, I'm Adwaith R Nair</h1>
+<h1 align="center"> ✨ Hey, Adwaith here ✨ </h1>
 <h3 align="center">⚡ Where AI, blockchain & code collide</h3>
+
+I’m a developer who loves building where **code meets possibility**.  
+From AI models to blockchain vaults, from hackathon prototypes to community projects...  
+I’m always exploring how today’s tools can shape tomorrow.  
+
+⚡ **What I do:**  
+- 🚀 Architect ideas into projects (AI • Blockchain • Open Source)  
+- 🛠️ Hack, build, and share at hackathons & tech fests  
+- 🌱 Learn in public & share knowledge with the dev community  
+
+💡 *Always building. Always learning. Always sharing.*  
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adwaith-r-nair&label=Profile%20views&color=0e75b6&style=flat" alt="adwaith-r-nair" /> </p>
 
